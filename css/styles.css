@@ -3,6 +3,13 @@ body {
   font-family: PT Astra Sans;
   background-color: #e9e9f0;
    }
+.card {
+  padding: 30px;
+  background-image: url("img/background_1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
 .footer {
   background-color: #2e34e5;
   position: fixed;
