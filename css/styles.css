@@ -8,7 +8,8 @@ body {
   position: fixed;
   right: 0;
   bottom: 0;
-  text-align: center; 
+  text-align: center;
+  float: left;
   width: 100%;   
   font-size: 19px;
   font-weight: bold;
