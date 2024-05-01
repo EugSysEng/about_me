@@ -1,18 +1,29 @@
 <style>
-body {
-  font-family: PT Astra Sans;
-  background-color: #e9e9f0;
-   }
-.footer {
-  background-color: #6fa8dc;
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  float: left;
-  width: 100%;   
-  font-size: 19px;
-  font-weight: bold;
-  color: #fafaff;  
- }
+    body {
+        background-color: e2e1eb;
+    }
+
+    #footer {
+        background-color: #301fed; 
+        position: fixed; 
+        left: 0; 
+        bottom: 0; 
+        height: 70px;
+        padding-left: 29px;
+        color: #f3f2ff; 
+        width: 99%; 
+    }
+
+    .all-symbols {
+        float:left;
+        margin-top:19px;
+        padding-left:199px;
+    }
+
+    .symbol {
+        color: #fffcfc;
+        margin-top:6px;
+        margin-left:29px;
+        height:29px;
+    }
 </style>
