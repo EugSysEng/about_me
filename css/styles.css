@@ -1,19 +1,10 @@
-<style>
-   body {
-       font-family: PT Astra Sans;
-       background-color: #e9e9f0;
-       background-image: linear-gradient(white, gray);
-   }
-  
-   .footer {
-       background-color: #2e34e5;
-       position: fixed;
-       right: 0;
-       bottom: 0;
-       text-align: center; 
-       width: 100%;   
-       font-size: 19px;
-       font-weight: bold;
-       color: #ffffff;
-  }
-</style>
+html {
+    background-image: url(background.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
